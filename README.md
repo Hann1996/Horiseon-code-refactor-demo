@@ -6,6 +6,7 @@ This project is a code refactor for the Horiseon website homepage. This refactor
 
 For this challenge, I was tasked with refactoring the codebase for Horiseon, a fictional marketing agency.
 
+
 Acceptance Criteria
 Title element is concise and descriptive
 Proper usage of semantic HTML elements
@@ -16,7 +17,10 @@ The client has requested a landing page that is optimized for search engines and
 
 
 
+
 ![image](https://github.com/Hann1996/Horiseon-code-refactor-demo/assets/152318743/c2ab31cb-0712-4d38-850c-2627b1889852)
+
+
 
 ## Table of Contents (Optional)
 
